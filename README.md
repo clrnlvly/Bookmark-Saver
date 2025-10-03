@@ -5,7 +5,8 @@ A minimal web app to save and manage your favorite website links. Built with **H
 ## 🔗 Live Demo  
 [🔗 View on GitHub Pages](https://clrnlvly.github.io/Bookmark-Saver/)
 
-## Youtube: https://youtu.be/ojGTYwdcHJ4
+## Video Demo:
+https://drive.google.com/file/d/1yPvtlWBTB4JqGNgFhMyAy7lNwAf50MWa/view?usp=drive_link
 ---
 
 ## ✨ Features
